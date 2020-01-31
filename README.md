@@ -6,6 +6,7 @@
 2. [Markdown](#2-markdown)
 3. [Git & Github](#3-git--github)
 4. [Node.js](#4-nodejs)
+5. [Nuxt.js](#5-nuxtjs)
 - - -
 ### 1. Convention
 * [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)  
@@ -18,3 +19,6 @@
 * [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)  
 ### 4. Node.js
 * [[Nodejs] Sequelize로 DB연결하기.](https://alencion.tistory.com/48)  
+### 5. Nuxt.js
+* [Nuxt.js ](https://nuxtjs.org/guide)
+* [Nuxt.js 개념부터 설치까지 빠르게 배우기](https://kdydesign.github.io/2019/04/10/nuxtjs-tutorial/)
