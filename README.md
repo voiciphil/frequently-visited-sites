@@ -20,5 +20,5 @@
 ### 4. Node.js
 * [[Nodejs] Sequelize로 DB연결하기.](https://alencion.tistory.com/48)  
 ### 5. Nuxt.js
-* [Nuxt.js ](https://nuxtjs.org/guide)
+* [Nuxt.js 공식 사이트](https://nuxtjs.org/guide)
 * [Nuxt.js 개념부터 설치까지 빠르게 배우기](https://kdydesign.github.io/2019/04/10/nuxtjs-tutorial/)
