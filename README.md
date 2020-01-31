@@ -2,10 +2,10 @@
 자주 방문하는 사이트들
 
 ## 목차
-1. [Convention](#convention)
-2. [Markdown](#markdown)
-3. [Git & Github](#git-&-github)
-4. [Node.js](#node.js)
+1. [Convention](#1-convention)
+2. [Markdown](#2-markdown)
+3. [Git & Github](#3-git--github)
+4. [Node.js](#4-nodejs)
 - - -
 ### 1. Convention
 * [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)  
