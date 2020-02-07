@@ -13,6 +13,7 @@
 ### 1. Convention
 * [Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)  
 * [GOOD NAMING CONVENTIONS FOR RESTFUL API](https://medium.com/@md.sheeraz/good-naming-conventions-for-restful-api-985650e55e9e)  
+* [RESTful API 설계 가이드](https://sanghaklee.tistory.com/m/57)
 ### 2. Git & Github
 * [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)  
 ### 3. Markdown
